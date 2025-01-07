@@ -1317,7 +1317,7 @@ area[href].questions__item-link {
   }
 
   .logo__image {
-    transform: scale(1.3);
+    transform: scale(1.2);
     padding-left: 20%; /* Remove any auto margins that might center the image */
   }
 
